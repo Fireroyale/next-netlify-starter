@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="yo" />
+        <Header title="Play Time" />
         <p className="description">
-         Main page
+         Main page 
 <body> {
   padding: 0;
   margin: 0;
