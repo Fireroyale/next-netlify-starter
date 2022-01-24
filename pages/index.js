@@ -21,18 +21,9 @@ export default function Home() {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
 
-main {
-  padding: 5rem 0;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
+
+
 
 <code> {
   <background: #050930;>
@@ -41,10 +32,3 @@ main {
   <font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;>
 }
 
-.container {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
