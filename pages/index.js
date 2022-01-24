@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="AccountMask" />
         <p className="description">
           Accounts from anygames can we sell here
-body {
+<body> {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
@@ -34,7 +34,7 @@ main {
   align-items: center;
 }
 
-code {
+<code> {
   background: #050930;
   border-radius: 5px;
   padding: 0.75rem;
