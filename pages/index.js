@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="AccountMask" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Accounts from anygames can we sell here <code>pages/index.js</code>
         </p>
       </main>
 
