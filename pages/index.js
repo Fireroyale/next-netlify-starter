@@ -22,7 +22,7 @@ export default function Home() {
 }
 
 
-<code> {
+<main> {
   <background: #050930;>
   <border-radius: 5px;>
   <padding: 0.75rem;>
