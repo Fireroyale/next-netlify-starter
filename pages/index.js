@@ -35,7 +35,7 @@ main {
 }
 
 <code> {
-  background: #050930;
+  <background: #050930;>
   border-radius: 5px;
   padding: 0.75rem;
   font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;
