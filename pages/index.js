@@ -14,7 +14,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Yo" />
+        <Header title="Yo"/>
         <p className="description">
         VALO
 <body> {
