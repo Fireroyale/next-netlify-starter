@@ -13,11 +13,4 @@ export default function Home() {
       <main>
         <Header title="AccountMask" />
         <p className="description">
-          Accounts from anygames can we sell here 
-  
-      </main>
-
-      <Footer />
-    </div>
-  )
-}
+          Accounts from anygames can we sell here
