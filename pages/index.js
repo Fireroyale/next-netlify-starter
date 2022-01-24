@@ -24,4 +24,4 @@ export default function Home() {
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 <main>
-<body style="background-color:;>
+<body style="background-color:"lightblue";>
