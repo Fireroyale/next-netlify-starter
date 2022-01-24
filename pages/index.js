@@ -14,8 +14,7 @@ export default function Home() {
         <Header title="AccountMask" />
         <p className="description">
           Accounts from anygames can we sell here 
-   
-        </p>
+  
       </main>
 
       <Footer />
