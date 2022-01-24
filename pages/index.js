@@ -26,5 +26,5 @@ export default function Home() {
 <main>
 <body style="background-color:blue;"/>
 <body> {
-  <background-color: lightblue;>
+  <background-color: "lightblue">
 }
