@@ -6,8 +6,7 @@ export default function Home() {
   return (
     <div className="container">
     <Head>
-    object.style.background
-    </Head>
+   <body style="background-color:yellow;">
     <main> {
 
 }
