@@ -16,7 +16,7 @@ export default function Home() {
       <main>
         <Header title="Yo"/>
         <p className="description">
-        VALO
+        Main page
 <body> {
   padding: 0;
   margin: 0;
