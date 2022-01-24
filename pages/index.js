@@ -5,6 +5,14 @@ import Footer from '@components/Footer'
 export default function Home() {
   return (
     <div className="container">
+    <Head>
+    <main> {
+  <background: #050930;/>
+  <border-radius: 5px;>
+  <padding: 0.75rem;>
+  <font-family: Menlo, Monaco, Lucida Console, Courier New, monospace;>
+}
+
       <Head>
         <title>MASKED</title>
         <link rel="icon" href="/favicon.ico" />
@@ -20,7 +28,6 @@ export default function Home() {
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell,
     Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
-
 
 <main> {
   <background: #050930;/>
