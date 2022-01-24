@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div className="container">
     <Head>
+    </Head>
     <main> {
   <background: #050930;/>
   <border-radius: 5px;>
