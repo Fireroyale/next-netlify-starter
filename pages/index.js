@@ -22,9 +22,6 @@ export default function Home() {
 }
 
 
-
-
-
 <code> {
   <background: #050930;>
   <border-radius: 5px;>
