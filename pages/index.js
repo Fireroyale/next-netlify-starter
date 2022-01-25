@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="AccountMask" />
         <p className="description">
-          Accounts from anygames
+    Accounts from anygames
 <body> {
   padding: 0;
   margin: 0;
